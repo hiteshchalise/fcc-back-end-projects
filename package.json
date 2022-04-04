@@ -1,6 +1,7 @@
 {
     "name": "fcc-learn-npm-package-json",
     "author": "HiteshChalise",
+    "description": "This is for FCC backend challenge.",
     "dependencies": {
         "express": "^4.14.0"
     },
